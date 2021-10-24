@@ -1,0 +1,1 @@
+When providing this documentation, my application code was done particularly well. The application code explained the relationships between different classes in the game code as well as the methods of those classes.
